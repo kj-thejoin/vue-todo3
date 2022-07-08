@@ -62,6 +62,8 @@ body {
 input {
   border-style: groove;
   width:200px;
+  border:none;
+  text-indent:1rem;
 }
 
 button{
