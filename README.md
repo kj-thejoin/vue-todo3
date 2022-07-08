@@ -1,24 +1,2 @@
-# vue-todo3
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#v.1.0
+[TodoList 만들기] 꼬인 부분들이 있어서 심플하게 다시 구현하기 / 기본 기능들을 위주로 구현
